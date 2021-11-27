@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c493fb85-af25-435c-85a2-6d03015ae9f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20fqsoYfiF1u55A20OfeSUSO1BM" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/python file/yolov5-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python\PycharmProjects\tt\images\mt" />
+      <recent name="C:\Python\PycharmProjects\tt" />
+      <recent name="C:\Users\杨洪成\PycharmProjects\tt" />
+      <recent name="C:\Users\杨洪成\PycharmProjects\tt\images\in" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python\PycharmProjects\tt\images\mt" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.three">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="tt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="changeColor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/changeColor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="three" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/three.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="two (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="two" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Python\PycharmProjects\tt\two.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.changeColor" />
+      <item itemvalue="Python.cs" />
+      <item itemvalue="Python.two" />
+      <item itemvalue="Python.three" />
+      <item itemvalue="Python.two (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.three" />
+        <item itemvalue="Python.two (1)" />
+        <item itemvalue="Python.two" />
+        <item itemvalue="Python.changeColor" />
+        <item itemvalue="Python.cs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c493fb85-af25-435c-85a2-6d03015ae9f6" name="Default Changelist" comment="" />
+      <created>1636446198744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636446198744</updated>
+      <workItem from="1636446204925" duration="5336000" />
+      <workItem from="1636509870205" duration="2849000" />
+      <workItem from="1636512783129" duration="397000" />
+      <workItem from="1636513549504" duration="878000" />
+      <workItem from="1636604942800" duration="4299000" />
+      <workItem from="1636609326541" duration="1416000" />
+      <workItem from="1636627766753" duration="1164000" />
+      <workItem from="1636635740516" duration="295000" />
+      <workItem from="1636705924327" duration="5899000" />
+      <workItem from="1636770752548" duration="6774000" />
+      <workItem from="1636800807736" duration="192000" />
+      <workItem from="1636965094182" duration="1409000" />
+      <workItem from="1637037628927" duration="2091000" />
+      <workItem from="1637222673660" duration="249000" />
+      <workItem from="1637392112089" duration="1544000" />
+      <workItem from="1637559675865" duration="7811000" />
+      <workItem from="1637579711720" duration="5524000" />
+      <workItem from="1637590869680" duration="596000" />
+      <workItem from="1637651891989" duration="11000" />
+      <workItem from="1637652015862" duration="239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637567409162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1637567409162" />
+    <state x="531" y="262" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1636712386570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="262" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1636712386570" />
+    <state x="398" y="16" key="#tor" timestamp="1637567084021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="398" y="16" key="#tor/0.0.1366.728@0.0.1366.728" timestamp="1637567084021" />
+    <state x="404" y="194" key="FileChooserDialogImpl" timestamp="1637652253690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="194" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1637652253690" />
+    <state width="1306" height="136" key="GridCell.Tab.0.bottom" timestamp="1637591471679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1637591471679" />
+    <state width="1306" height="136" key="GridCell.Tab.0.center" timestamp="1637591471679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1637591471679" />
+    <state width="1306" height="136" key="GridCell.Tab.0.left" timestamp="1637591471679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1637591471679" />
+    <state width="1306" height="136" key="GridCell.Tab.0.right" timestamp="1637591471679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1637591471679" />
+    <state width="1306" height="213" key="GridCell.Tab.1.bottom" timestamp="1637570569860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1637570569860" />
+    <state width="1306" height="213" key="GridCell.Tab.1.center" timestamp="1637570569860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1637570569860" />
+    <state width="1306" height="213" key="GridCell.Tab.1.left" timestamp="1637570569860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1637570569860" />
+    <state width="1306" height="213" key="GridCell.Tab.1.right" timestamp="1637570569860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1637570569860" />
+    <state x="159" y="18" key="SettingsEditor" timestamp="1637560939388">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="159" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1637560939388" />
+    <state x="275" y="29" key="scopes" timestamp="1636513008719">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="29" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1636513008719" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1636710052756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1636710052756" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tt$bb.coverage" NAME="bb Coverage Results" MODIFIED="1636510670850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tt$changeColor.coverage" NAME="changeColor Coverage Results" MODIFIED="1637561496215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tt$tor.coverage" NAME="two Coverage Results" MODIFIED="1637567223536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tt$cut.coverage" NAME="cut Coverage Results" MODIFIED="1636779779962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tt$cs.coverage" NAME="cs Coverage Results" MODIFIED="1637561471513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tt$22.coverage" NAME="22 Coverage Results" MODIFIED="1636609743706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tt$three.coverage" NAME="three Coverage Results" MODIFIED="1637591214454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
